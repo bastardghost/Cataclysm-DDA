@@ -7433,7 +7433,41 @@
                                   ["plant_fibre", 300]
                               ]
                           ]
-        }
+        },
         
+        {
+            "result": "arrow_metal",
+            "category": "CC_AMMO",
+            "skill_pri": "archery",
+            "skill_sec": "survival",
+            "difficulty": 3,
+            "time": 15000,
+            "reversible": false,
+            "autolearn": true,
+            "tools": [
+                         [
+                             ["hammer", -1],
+                             ["toolset", -1],
+                             ["hatchet", -1],
+                             ["rock", -1]
+                         ],
+                         [
+                             ["welder", 20],
+                             ["toolset", 2]
+                         ],
+                         [
+                             ["goggles_welding", -1]
+                     ],
+            "components": [
+                              [
+                                  ["knife_steak", 5],
+                                  ["knife_combat", 5],
+                                  ["spike", 5],
+                                  ["knife_butter", 5],
+                                  ["scrap", 5]
+                              ]
+                          ]
+        }
+
     ]
 }
