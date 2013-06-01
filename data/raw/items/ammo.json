@@ -1855,5 +1855,27 @@
         "count" : 200,
         "effects" : ["FLAME","STREAM"],
         "phase": "liquid"
+    },
+    { "type" : "AMMO",
+        "id" : "arrow_metal",
+        "rarity" : 3,
+        "price" : 150,
+        "name" : "metal arrow",
+        "symbol" : "=",
+        "color" : "green",
+        "description" : "An arrow haphazardly crafted out of some metal object(s), lending it greater weight and more damage at the cost of reduced accuracy.",
+        "material" : "IRON",
+        "volume" : 2,
+        "weight" : 80,
+        "bashing" : 1,
+        "cutting" : 0,
+        "to_hit" : 0,
+        "ammo_type" : "arrow",
+        "damage" : 12,
+        "pierce" : 4,
+        "range" : 0,
+        "accuracy" : 14,
+        "recoil" : 0,
+        "count" : 10
     }
 ]
