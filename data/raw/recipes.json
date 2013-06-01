@@ -7399,6 +7399,40 @@
                                   ["sugar", 4]
                               ]
                           ]
+        },
+        
+        {
+            "result": "recurve",
+            "category": "CC_WEAPON",
+            "skill_pri": "archery",
+            "skill_sec": "survival",
+            "difficulty": 5,
+            "time": 25000,
+            "reversible": true,
+            "autolearn": true,
+            "tools": [
+                         [
+                             ["hatchet", -1],
+                             ["knife_steak", -1],
+                             ["knife_combat", -1],
+                             ["knife_butcher", -1],
+                             ["pockknife", -1],
+                             ["scalpel", -1],
+                             ["machete", -1],
+                             ["broadsword", -1],
+                             ["toolset", -1]
+                         ]
+                     ],
+            "components": [
+                              [
+                                  ["stick", 1]
+                              ],
+                              [
+                                  ["string_36", 3],
+                                  ["sinew", 300],
+                                  ["plant_fibre", 300]
+                              ]
+                          ]
         }
         
     ]
