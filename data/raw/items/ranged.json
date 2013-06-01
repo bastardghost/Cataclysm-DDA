@@ -2101,5 +2101,33 @@
     "burst": 0,
     "clip_size": 6,
     "reload": 100
+  },
+  
+  {
+    "id": "recurve",
+    "type": "GUN",
+    "symbol": "(",
+    "color": "yellow",
+    "name": "recurve bow",
+    "description": "A bow with the bowstring in contact with parts of the bow, putting high strain on the bow itself and allowing energy to more efficiently be transferred to the arrow. It is also more compact than most longbows.",
+    "rarity": 3,
+    "price": 1200,
+    "material": "WOOD",
+    "flags": ["STR10_DRAW", "RELOAD_AND_SHOOT"],
+    "skill": "archery",
+    "ammo": "arrow",
+    "weight": 3,
+    "volume": 6,
+    "bashing": 7,
+    "cutting": 0,
+    "to_hit": 0,
+    "ranged_damage": 2,
+    "range": 12,
+    "accuracy": 12,
+    "recoil": 0,
+    "durability": 4,
+    "burst": 0,
+    "clip_size": 1,
+    "reload": 70
   }
 ]
